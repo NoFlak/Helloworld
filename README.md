@@ -1,2 +1,5 @@
-# Helloworld
-1st repository
+- 👋 Hi, I’m @NoFlak
+- 👀 I’m interested in learning the best practices in building secure projects, and scripting IT tools for daily tasks and network monitoring
+- 🌱 I’m currently learning computer security and network administration (Net+,Sec+,CCNA) and am looking to expand
+- 💞️ I’m looking to collaborate on Bash, Python, router OS, linux tools, and PowerShell scripts
+- 📫 How to reach me Discord:noFlak#6420
