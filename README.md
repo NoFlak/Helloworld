@@ -1,5 +1,14 @@
-- 👋 Hi, I’m Brent, current lvl newb adjacent
-- 👀 I’m interested in learning the best practices in building secure projects, and scripting IT tools for daily tasks and network monitoring
-- 🌱 I’m currently learning computer security and network administration (Net+,Sec+,CCNA) and am looking to expand in the areas of: directory, firewall, programming faults (i.e. sql injection and worse more current in 'the wild' issues)
-- 💞️ I’m looking to collaborate on Bash, Python, Security related projects, router OS, linux tools, and PowerShell scripts
-- 📫 How to reach me Discord:noflak, or dm here on Github
+Welcome to My GitHub Profile! 👋
+Hi, I’m Brent, an aspiring IT Security Professional with a passion for learning and collaboration.
+
+About Me
+🔍 Interests: I’m dedicated to mastering best practices in building secure projects and scripting IT tools for daily tasks and network monitoring.
+
+📖 Currently Learning: I’m currently pursuing certifications in Network+, Security+, and CCNA, while expanding my knowledge in directory services, firewalls, and identifying programming vulnerabilities such as SQL injection and other emerging threats.
+
+🤝 Collaborations: I’m eager to collaborate on projects involving Bash, Python, cybersecurity, router OS, Linux tools, and PowerShell scripts.
+
+Let's Connect
+🗨️ Discord: noflak
+
+📫 GitHub: DM me here
